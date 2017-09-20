@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="eclipseVersion" value="ECLIPSE_44" />
+    <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1364339291306" />
+    <option name="importOrderConfigFilePath" value="$USER_HOME$/workday/code/dev-build/conf/eclipse/workday.importorder" />
+    <option name="importOrderFromFile" value="true" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/workday/code/dev-build/conf/eclipse/eclipse workday java format.xml" />
+    <option name="selectedJavaProfile" value="Workday Java Format - Kinder" />
+    <option name="useOldEclipseJavaFormatter" value="true" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Spring_Stuff/gs-rest-service/complete" value="1504735650000" />
+        <entry key="$USER_HOME$/workday/code" value="64540352768000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf8 -g" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="Palette2">
+    <group name="Swing">
+      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+      </item>
+      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.png" removable="false" auto-create-binding="false" can-attach-label="true">
+        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+        <initial-values>
+          <property name="text" value="Button" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="RadioButton" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="CheckBox" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="Label" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+          <preferred-size width="-1" height="20" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+      </item>
+    </group>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/play-scala-forms-example" value="1505815124000" />
+        <entry key="$PROJECT_DIR$" value="1505841606000" />
+        <entry key="$USER_HOME$/Playground/play-scala-starter-example" value="1505778004000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="root">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+    </profile>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+  <component name="libraryTable">
+    <library name="SBT: aopalliance:aopalliance:1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/aopalliance/aopalliance/srcs/aopalliance-1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: cglib:cglib-nodep:3.2.4:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/cglib/cglib-nodep/jars/cglib-nodep-3.2.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: ch.qos.logback:logback-classic:1.2.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.2.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/ch.qos.logback/logback-classic/srcs/logback-classic-1.2.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: ch.qos.logback:logback-core:1.2.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.2.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/ch.qos.logback/logback-core/srcs/logback-core-1.2.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.codeborne:phantomjsdriver:1.4.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.codeborne/phantomjsdriver/jars/phantomjsdriver-1.4.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.codeborne/phantomjsdriver/srcs/phantomjsdriver-1.4.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.core:jackson-annotations:2.8.10:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/srcs/jackson-annotations-2.8.10-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.core:jackson-annotations:2.8.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/srcs/jackson-annotations-2.8.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.core:jackson-core:2.8.10:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/srcs/jackson-core-2.8.10-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.core:jackson-core:2.8.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/srcs/jackson-core-2.8.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.core:jackson-databind:2.8.10:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.8.10-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.core:jackson-databind:2.8.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.8.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.8.10:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/bundles/jackson-datatype-jdk8-2.8.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/srcs/jackson-datatype-jdk8-2.8.10-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.8.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/bundles/jackson-datatype-jdk8-2.8.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/srcs/jackson-datatype-jdk8-2.8.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.10:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/bundles/jackson-datatype-jsr310-2.8.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/srcs/jackson-datatype-jsr310-2.8.10-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/bundles/jackson-datatype-jsr310-2.8.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/srcs/jackson-datatype-jsr310-2.8.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.google.code.findbugs:jsr305:1.3.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-1.3.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: com.google.code.findbugs:jsr305:3.0.2:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-3.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.code.findbugs/jsr305/srcs/jsr305-3.0.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.google.code.gson:gson:2.8.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.code.gson/gson/jars/gson-2.8.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: com.google.errorprone:error_prone_annotations:2.0.18:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.errorprone/error_prone_annotations/jars/error_prone_annotations-2.0.18.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.errorprone/error_prone_annotations/srcs/error_prone_annotations-2.0.18-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.google.guava:guava:22.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.guava/guava/bundles/guava-22.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.guava/guava/srcs/guava-22.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.google.guava:guava:23.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.guava/guava/jars/guava-23.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: com.google.inject.extensions:guice-assistedinject:4.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.inject.extensions/guice-assistedinject/jars/guice-assistedinject-4.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.inject.extensions/guice-assistedinject/srcs/guice-assistedinject-4.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.google.inject:guice:4.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.inject/guice/jars/guice-4.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.inject/guice/srcs/guice-4.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.google.j2objc:j2objc-annotations:1.1:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.j2objc/j2objc-annotations/jars/j2objc-annotations-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.google.j2objc/j2objc-annotations/srcs/j2objc-annotations-1.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.novocode:junit-interface:0.11:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.novocode/junit-interface/jars/junit-interface-0.11.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.novocode/junit-interface/srcs/junit-interface-0.11-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.akka:akka-actor_2.12:2.5.4:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/srcs/akka-http-core_2.12-10.0.10-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.akka:akka-http-core_2.12:10.0.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/srcs/akka-http-core_2.12-10.0.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.akka:akka-parsing_2.12:10.0.10:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-parsing_2.12/jars/akka-parsing_2.12-10.0.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-parsing_2.12/srcs/akka-parsing_2.12-10.0.10-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.akka:akka-parsing_2.12:10.0.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-parsing_2.12/jars/akka-parsing_2.12-10.0.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-parsing_2.12/srcs/akka-parsing_2.12-10.0.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.akka:akka-slf4j_2.12:2.5.4:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.12/jars/akka-slf4j_2.12-2.5.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.12/srcs/akka-slf4j_2.12-2.5.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.akka:akka-stream_2.12:2.5.4:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:build-link:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/build-link/srcs/build-link-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:build-link:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/build-link/srcs/build-link-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:cachecontrol_2.12:1.1.2:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/cachecontrol_2.12/jars/cachecontrol_2.12-1.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/cachecontrol_2.12/srcs/cachecontrol_2.12-1.1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:filters-helpers_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/filters-helpers_2.12/jars/filters-helpers_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/filters-helpers_2.12/srcs/filters-helpers_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-ahc-ws-standalone_2.12:1.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ahc-ws-standalone_2.12/jars/play-ahc-ws-standalone_2.12-1.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ahc-ws-standalone_2.12/srcs/play-ahc-ws-standalone_2.12-1.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-ahc-ws_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ahc-ws_2.12/jars/play-ahc-ws_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ahc-ws_2.12/srcs/play-ahc-ws_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-akka-http-server_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-akka-http-server_2.12/jars/play-akka-http-server_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-akka-http-server_2.12/srcs/play-akka-http-server_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-akka-http-server_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-akka-http-server_2.12/jars/play-akka-http-server_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-akka-http-server_2.12/srcs/play-akka-http-server_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-exceptions:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-exceptions/srcs/play-exceptions-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-exceptions:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-exceptions/srcs/play-exceptions-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-functional_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-functional_2.12/jars/play-functional_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-functional_2.12/srcs/play-functional_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-functional_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-functional_2.12/jars/play-functional_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-functional_2.12/srcs/play-functional_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-guice_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-guice_2.12/jars/play-guice_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-guice_2.12/srcs/play-guice_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-guice_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-guice_2.12/jars/play-guice_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-guice_2.12/srcs/play-guice_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-json_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.12/jars/play-json_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.12/srcs/play-json_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-json_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.12/jars/play-json_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.12/srcs/play-json_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-logback_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-logback_2.12/jars/play-logback_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-logback_2.12/srcs/play-logback_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-netty-utils:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-netty-utils/srcs/play-netty-utils-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-netty-utils:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-netty-utils/srcs/play-netty-utils-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-server_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-server_2.12/jars/play-server_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-server_2.12/srcs/play-server_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-server_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-server_2.12/jars/play-server_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-server_2.12/srcs/play-server_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-streams_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-streams_2.12/jars/play-streams_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-streams_2.12/srcs/play-streams_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-streams_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-streams_2.12/jars/play-streams_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-streams_2.12/srcs/play-streams_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-test_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-test_2.12/jars/play-test_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-test_2.12/srcs/play-test_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-ws-standalone-json_2.12:1.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ws-standalone-json_2.12/jars/play-ws-standalone-json_2.12-1.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ws-standalone-json_2.12/srcs/play-ws-standalone-json_2.12-1.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-ws-standalone-xml_2.12:1.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ws-standalone-xml_2.12/jars/play-ws-standalone-xml_2.12-1.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ws-standalone-xml_2.12/srcs/play-ws-standalone-xml_2.12-1.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-ws-standalone_2.12:1.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ws-standalone_2.12/jars/play-ws-standalone_2.12-1.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ws-standalone_2.12/srcs/play-ws-standalone_2.12-1.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play-ws_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ws_2.12/jars/play-ws_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-ws_2.12/srcs/play-ws_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play_2.12:2.6.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:play_2.12:2.6.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.6.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:shaded-asynchttpclient:1.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/shaded-asynchttpclient/jars/shaded-asynchttpclient-1.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/shaded-asynchttpclient/srcs/shaded-asynchttpclient-1.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:shaded-oauth:1.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/shaded-oauth/jars/shaded-oauth-1.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/shaded-oauth/srcs/shaded-oauth-1.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe.play:twirl-api_2.12:1.3.4:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/twirl-api_2.12/srcs/twirl-api_2.12-1.3.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe:config:1.3.1:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/bundles/config-1.3.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.3.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe:ssl-config-core_2.12:0.2.1:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/ssl-config-core_2.12/bundles/ssl-config-core_2.12-0.2.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/ssl-config-core_2.12/srcs/ssl-config-core_2.12-0.2.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: com.typesafe:ssl-config-core_2.12:0.2.2:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/ssl-config-core_2.12/bundles/ssl-config-core_2.12-0.2.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/ssl-config-core_2.12/srcs/ssl-config-core_2.12-0.2.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: commons-codec:commons-codec:1.10:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: commons-io:commons-io:2.5:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: commons-logging:commons-logging:1.2:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: io.jsonwebtoken:jjwt:0.7.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/io.jsonwebtoken/jjwt/jars/jjwt-0.7.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/io.jsonwebtoken/jjwt/srcs/jjwt-0.7.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: javax.cache:cache-api:1.0.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/javax.cache/cache-api/jars/cache-api-1.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/javax.cache/cache-api/srcs/cache-api-1.0.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: javax.inject:javax.inject:1:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/javax.inject/javax.inject/jars/javax.inject-1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/javax.inject/javax.inject/srcs/javax.inject-1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: javax.servlet:javax.servlet-api:3.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: javax.transaction:jta:1.1:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/javax.transaction/jta/srcs/jta-1.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: joda-time:joda-time:2.9.9:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.9.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/joda-time/joda-time/srcs/joda-time-2.9.9-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: junit:junit:4.12:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/junit/junit/jars/junit-4.12.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: net.java.dev.jna:jna-platform:4.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/net.java.dev.jna/jna-platform/jars/jna-platform-4.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: net.java.dev.jna:jna:4.1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/net.java.dev.jna/jna/jars/jna-4.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: net.sourceforge.cssparser:cssparser:0.9.23:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.cssparser/cssparser/jars/cssparser-0.9.23.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: net.sourceforge.htmlunit:htmlunit-core-js:2.27:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.htmlunit/htmlunit-core-js/jars/htmlunit-core-js-2.27.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: net.sourceforge.htmlunit:htmlunit:2.27:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.htmlunit/htmlunit/jars/htmlunit-2.27.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: net.sourceforge.htmlunit:neko-htmlunit:2.27:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.htmlunit/neko-htmlunit/jars/neko-htmlunit-2.27.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.apache.commons:commons-exec:1.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-exec/jars/commons-exec-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.apache.commons:commons-lang3:3.6:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.6.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/srcs/commons-lang3-3.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.apache.httpcomponents:httpclient:4.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.apache.httpcomponents:httpcore:4.4.6:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.6.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.apache.httpcomponents:httpmime:4.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpmime/jars/httpmime-4.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.atteo.classindex:classindex:3.4:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.atteo.classindex/classindex/jars/classindex-3.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.atteo.classindex/classindex/srcs/classindex-3.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.codehaus.mojo:animal-sniffer-annotations:1.14:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.codehaus.mojo/animal-sniffer-annotations/jars/animal-sniffer-annotations-1.14.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.codehaus.mojo/animal-sniffer-annotations/srcs/animal-sniffer-annotations-1.14-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.eclipse.jetty.websocket:websocket-api:9.4.5.v20170502:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty.websocket/websocket-api/jars/websocket-api-9.4.5.v20170502.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.eclipse.jetty.websocket:websocket-client:9.4.5.v20170502:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty.websocket/websocket-client/jars/websocket-client-9.4.5.v20170502.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.eclipse.jetty.websocket:websocket-common:9.4.5.v20170502:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty.websocket/websocket-common/jars/websocket-common-9.4.5.v20170502.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.eclipse.jetty:jetty-client:9.4.5.v20170502:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-client/jars/jetty-client-9.4.5.v20170502.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.eclipse.jetty:jetty-http:9.4.5.v20170502:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-http/jars/jetty-http-9.4.5.v20170502.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.eclipse.jetty:jetty-io:9.4.5.v20170502:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-io/jars/jetty-io-9.4.5.v20170502.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.eclipse.jetty:jetty-util:9.4.5.v20170502:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-util/jars/jetty-util-9.4.5.v20170502.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.fluentlenium:fluentlenium-core:3.3.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.fluentlenium/fluentlenium-core/jars/fluentlenium-core-3.3.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.fluentlenium/fluentlenium-core/srcs/fluentlenium-core-3.3.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.hamcrest:hamcrest-core:1.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.joda:joda-convert:1.7:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.7.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.joda/joda-convert/srcs/joda-convert-1.7-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.reactivestreams:reactive-streams:1.0.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.reactivestreams/reactive-streams/srcs/reactive-streams-1.0.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scala-lang.modules:scala-java8-compat_2.12:0.8.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.12/bundles/scala-java8-compat_2.12-0.8.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.12/srcs/scala-java8-compat_2.12-0.8.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scala-lang.modules:scala-parser-combinators_2.12:1.0.6:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.6.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/srcs/scala-parser-combinators_2.12-1.0.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scala-lang.modules:scala-xml_2.12:1.0.6:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/srcs/scala-xml_2.12-1.0.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scala-lang:scala-library:2.12.3:jar" type="Scala">
+      <properties>
+        <option name="languageLevel" value="Scala_2_12" />
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.3.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.3.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scala-lang:scala-reflect:2.12.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scala-sbt:test-interface:1.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-sbt/test-interface/srcs/test-interface-1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scalactic:scalactic_2.12:3.0.4:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scalactic/scalactic_2.12/srcs/scalactic_2.12-3.0.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scalatest:scalatest_2.12:3.0.4:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/srcs/scalatest_2.12-3.0.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.scalatestplus.play:scalatestplus-play_2.12:3.1.2:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scalatestplus.play/scalatestplus-play_2.12/jars/scalatestplus-play_2.12-3.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scalatestplus.play/scalatestplus-play_2.12/srcs/scalatestplus-play_2.12-3.1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:htmlunit-driver:2.27:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/htmlunit-driver/jars/htmlunit-driver-2.27.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-api:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-api/jars/selenium-api-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-chrome-driver:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-chrome-driver/jars/selenium-chrome-driver-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-edge-driver:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-edge-driver/jars/selenium-edge-driver-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-firefox-driver:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-firefox-driver/jars/selenium-firefox-driver-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-ie-driver:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-ie-driver/jars/selenium-ie-driver-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-java:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-java/jars/selenium-java-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-java/srcs/selenium-java-3.5.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-opera-driver:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-opera-driver/jars/selenium-opera-driver-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-remote-driver:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-remote-driver/jars/selenium-remote-driver-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-safari-driver:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-safari-driver/jars/selenium-safari-driver-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.seleniumhq.selenium:selenium-support:3.5.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.seleniumhq.selenium/selenium-support/jars/selenium-support-3.5.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: org.slf4j:jcl-over-slf4j:1.7.25:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.25.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.slf4j/jcl-over-slf4j/srcs/jcl-over-slf4j-1.7.25-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.slf4j:jul-to-slf4j:1.7.25:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.25.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.slf4j/jul-to-slf4j/srcs/jul-to-slf4j-1.7.25-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.slf4j:slf4j-api:1.7.25:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.slf4j/slf4j-api/srcs/slf4j-api-1.7.25-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.typelevel:macro-compat_2.12:1.1.1:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.typelevel/macro-compat_2.12/srcs/macro-compat_2.12-1.1.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="SBT: org.w3c.css:sac:1.3:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.w3c.css/sac/jars/sac-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: xalan:serializer:2.7.2:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/xalan/serializer/jars/serializer-2.7.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: xalan:xalan:2.7.2:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/xalan/xalan/jars/xalan-2.7.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: xerces:xercesImpl:2.11.0:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="SBT: xml-apis:xml-apis:1.4.01:jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="org.twodividedbyzero.idea.findbugs">
+    <option name="annotationTypeSettings">
+      <map>
+        <entry key="ExpPriority" value="-16777216;-1;-8355712;WAVE_UNDERSCORE;0;" />
+        <entry key="HighPriority" value="-65536;-1;-65536;WAVE_UNDERSCORE;1;" />
+        <entry key="IgnorePriority" value="-16777216;-1;-8650628;WAVE_UNDERSCORE;0;" />
+        <entry key="LowPriority" value="-16777216;-1;-16711936;BOXED;0;" />
+        <entry key="NormalPriority" value="-16777216;-1;-5066240;WAVE_UNDERSCORE;2;" />
+      </map>
+    </option>
+    <option name="_basePreferences">
+      <map>
+        <entry key="property.analysisEffortLevel" value="default" />
+        <entry key="property.analyzeAfterAutoMake" value="false" />
+        <entry key="property.analyzeAfterCompile" value="false" />
+        <entry key="property.annotationGutterIconEnabled" value="true" />
+        <entry key="property.annotationSuppressWarningsClass" value="edu.umd.cs.findbugs.annotations.SuppressFBWarnings" />
+        <entry key="property.annotationTextRangeMarkupEnabled" value="true" />
+        <entry key="property.exportAsHtml" value="true" />
+        <entry key="property.exportAsXml" value="true" />
+        <entry key="property.exportBaseDir" value="" />
+        <entry key="property.exportCreateArchiveDir" value="false" />
+        <entry key="property.exportOpenBrowser" value="true" />
+        <entry key="property.minPriorityToReport" value="Medium" />
+        <entry key="property.runAnalysisInBackground" value="false" />
+        <entry key="property.showHiddenDetectors" value="false" />
+        <entry key="property.toolWindowToFront" value="true" />
+      </map>
+    </option>
+    <option name="_detectors">
+      <map>
+        <entry key="AppendingToAnObjectOutputStream" value="true" />
+        <entry key="AtomicityProblem" value="true" />
+        <entry key="BadAppletConstructor" value="false" />
+        <entry key="BadResultSetAccess" value="true" />
+        <entry key="BadSyntaxForRegularExpression" value="true" />
+        <entry key="BadUseOfReturnValue" value="true" />
+        <entry key="BadlyOverriddenAdapter" value="true" />
+        <entry key="BooleanReturnNull" value="true" />
+        <entry key="BuildInterproceduralCallGraph" value="false" />
+        <entry key="BuildObligationPolicyDatabase" value="true" />
+        <entry key="BuildStringPassthruGraph" value="true" />
+        <entry key="CallToUnsupportedMethod" value="false" />
+        <entry key="CalledMethods" value="true" />
+        <entry key="CheckCalls" value="false" />
+        <entry key="CheckExpectedWarnings" value="false" />
+        <entry key="CheckImmutableAnnotation" value="true" />
+        <entry key="CheckRelaxingNullnessAnnotation" value="true" />
+        <entry key="CheckTypeQualifiers" value="true" />
+        <entry key="CloneIdiom" value="true" />
+        <entry key="ComparatorIdiom" value="true" />
+        <entry key="ConfusedInheritance" value="true" />
+        <entry key="ConfusionBetweenInheritedAndOuterMethod" value="true" />
+        <entry key="CovariantArrayAssignment" value="false" />
+        <entry key="CrossSiteScripting" value="true" />
+        <entry key="DefaultEncodingDetector" value="true" />
+        <entry key="DoInsideDoPrivileged" value="true" />
+        <entry key="DontCatchIllegalMonitorStateException" value="true" />
+        <entry key="DontIgnoreResultOfPutIfAbsent" value="true" />
+        <entry key="DontUseEnum" value="true" />
+        <entry key="DroppedException" value="true" />
+        <entry key="DumbMethodInvocations" value="true" />
+        <entry key="DumbMethods" value="true" />
+        <entry key="DuplicateBranches" value="true" />
+        <entry key="EmptyZipFileEntry" value="false" />
+        <entry key="EqualsOperandShouldHaveClassCompatibleWithThis" value="true" />
+        <entry key="ExplicitSerialization" value="true" />
+        <entry key="FieldItemSummary" value="true" />
+        <entry key="FinalizerNullsFields" value="true" />
+        <entry key="FindBadCast2" value="true" />
+        <entry key="FindBadForLoop" value="true" />
+        <entry key="FindBugsSummaryStats" value="true" />
+        <entry key="FindCircularDependencies" value="false" />
+        <entry key="FindComparatorProblems" value="true" />
+        <entry key="FindDeadLocalStores" value="true" />
+        <entry key="FindDoubleCheck" value="true" />
+        <entry key="FindEmptySynchronizedBlock" value="true" />
+        <entry key="FindFieldSelfAssignment" value="true" />
+        <entry key="FindFinalizeInvocations" value="true" />
+        <entry key="FindFloatEquality" value="true" />
+        <entry key="FindFloatMath" value="false" />
+        <entry key="FindHEmismatch" value="true" />
+        <entry key="FindInconsistentSync2" value="true" />
+        <entry key="FindJSR166LockMonitorenter" value="true" />
+        <entry key="FindLocalSelfAssignment2" value="true" />
+        <entry key="FindMaskedFields" value="true" />
+        <entry key="FindMismatchedWaitOrNotify" value="true" />
+        <entry key="FindNakedNotify" value="true" />
+        <entry key="FindNoSideEffectMethods" value="true" />
+        <entry key="FindNonSerializableStoreIntoSession" value="false" />
+        <entry key="FindNonSerializableValuePassedToWriteObject" value="false" />
+        <entry key="FindNonShortCircuit" value="true" />
+        <entry key="FindNullDeref" value="true" />
+        <entry key="FindNullDerefsInvolvingNonShortCircuitEvaluation" value="true" />
+        <entry key="FindOpenStream" value="true" />
+        <entry key="FindPuzzlers" value="true" />
+        <entry key="FindRefComparison" value="true" />
+        <entry key="FindReturnRef" value="true" />
+        <entry key="FindRoughConstants" value="true" />
+        <entry key="FindRunInvocations" value="true" />
+        <entry key="FindSelfComparison" value="true" />
+        <entry key="FindSelfComparison2" value="true" />
+        <entry key="FindSleepWithLockHeld" value="true" />
+        <entry key="FindSpinLoop" value="true" />
+        <entry key="FindSqlInjection" value="true" />
+        <entry key="FindTwoLockWait" value="true" />
+        <entry key="FindUncalledPrivateMethods" value="true" />
+        <entry key="FindUnconditionalWait" value="true" />
+        <entry key="FindUninitializedGet" value="true" />
+        <entry key="FindUnrelatedTypesInGenericContainer" value="true" />
+        <entry key="FindUnreleasedLock" value="true" />
+        <entry key="FindUnsatisfiedObligation" value="true" />
+        <entry key="FindUnsyncGet" value="true" />
+        <entry key="FindUseOfNonSerializableValue" value="true" />
+        <entry key="FindUselessControlFlow" value="true" />
+        <entry key="FindUselessObjects" value="true" />
+        <entry key="FormatStringChecker" value="true" />
+        <entry key="FunctionsThatMightBeMistakenForProcedures" value="true" />
+        <entry key="HugeSharedStringConstants" value="true" />
+        <entry key="IDivResultCastToDouble" value="true" />
+        <entry key="IncompatMask" value="true" />
+        <entry key="InconsistentAnnotations" value="true" />
+        <entry key="InefficientIndexOf" value="false" />
+        <entry key="InefficientInitializationInsideLoop" value="false" />
+        <entry key="InefficientMemberAccess" value="false" />
+        <entry key="InefficientToArray" value="false" />
+        <entry key="InfiniteLoop" value="true" />
+        <entry key="InfiniteRecursiveLoop" value="true" />
+        <entry key="InheritanceUnsafeGetResource" value="true" />
+        <entry key="InitializationChain" value="true" />
+        <entry key="InitializeNonnullFieldsInConstructor" value="true" />
+        <entry key="InstantiateStaticClass" value="true" />
+        <entry key="IntCast2LongAsInstant" value="true" />
+        <entry key="InvalidJUnitTest" value="true" />
+        <entry key="IteratorIdioms" value="true" />
+        <entry key="LazyInit" value="true" />
+        <entry key="LoadOfKnownNullValue" value="true" />
+        <entry key="LostLoggerDueToWeakReference" value="true" />
+        <entry key="MethodReturnCheck" value="true" />
+        <entry key="Methods" value="true" />
+        <entry key="MultithreadedInstanceAccess" value="true" />
+        <entry key="MutableEnum" value="true" />
+        <entry key="MutableLock" value="true" />
+        <entry key="MutableStaticFields" value="true" />
+        <entry key="Naming" value="true" />
+        <entry key="Noise" value="false" />
+        <entry key="NoiseNullDeref" value="false" />
+        <entry key="NoteAnnotationRetention" value="true" />
+        <entry key="NoteCheckReturnValueAnnotations" value="true" />
+        <entry key="NoteDirectlyRelevantTypeQualifiers" value="true" />
+        <entry key="NoteJCIPAnnotation" value="true" />
+        <entry key="NoteNonNullAnnotations" value="false" />
+        <entry key="NoteNonnullReturnValues" value="false" />
+        <entry key="NoteSuppressedWarnings" value="true" />
+        <entry key="NoteUnconditionalParamDerefs" value="true" />
+        <entry key="NumberConstructor" value="true" />
+        <entry key="OptionalReturnNull" value="true" />
+        <entry key="OverridingEqualsNotSymmetrical" value="true" />
+        <entry key="PreferZeroLengthArrays" value="true" />
+        <entry key="PublicSemaphores" value="false" />
+        <entry key="QuestionableBooleanAssignment" value="true" />
+        <entry key="ReadOfInstanceFieldInMethodInvokedByConstructorInSuperclass" value="true" />
+        <entry key="ReadReturnShouldBeChecked" value="true" />
+        <entry key="RedundantConditions" value="true" />
+        <entry key="RedundantInterfaces" value="true" />
+        <entry key="ReflectiveClasses" value="true" />
+        <entry key="RepeatedConditionals" value="true" />
+        <entry key="ResolveAllReferences" value="false" />
+        <entry key="RuntimeExceptionCapture" value="true" />
+        <entry key="SerializableIdiom" value="true" />
+        <entry key="StartInConstructor" value="true" />
+        <entry key="StaticCalendarDetector" value="true" />
+        <entry key="StringConcatenation" value="true" />
+        <entry key="SuperfluousInstanceOf" value="true" />
+        <entry key="SuspiciousThreadInterrupted" value="true" />
+        <entry key="SwitchFallthrough" value="true" />
+        <entry key="SynchronizationOnSharedBuiltinConstant" value="true" />
+        <entry key="SynchronizeAndNullCheckField" value="true" />
+        <entry key="SynchronizeOnClassLiteralNotGetClass" value="true" />
+        <entry key="SynchronizingOnContentsOfFieldToProtectField" value="true" />
+        <entry key="TestASM" value="false" />
+        <entry key="TestDataflowAnalysis" value="false" />
+        <entry key="TestingGround" value="false" />
+        <entry key="TestingGround2" value="false" />
+        <entry key="TrainFieldStoreTypes" value="true" />
+        <entry key="TrainLongInstantfParams" value="true" />
+        <entry key="TrainNonNullAnnotations" value="true" />
+        <entry key="TrainUnconditionalDerefParams" value="true" />
+        <entry key="URLProblems" value="true" />
+        <entry key="UncallableMethodOfAnonymousClass" value="true" />
+        <entry key="UnnecessaryMath" value="true" />
+        <entry key="UnreadFields" value="true" />
+        <entry key="UselessSubclassMethod" value="false" />
+        <entry key="VarArgsProblems" value="true" />
+        <entry key="VolatileUsage" value="true" />
+        <entry key="WaitInLoop" value="true" />
+        <entry key="WrongMapIterator" value="true" />
+        <entry key="XMLFactoryBypass" value="true" />
+      </map>
+    </option>
+    <option name="_reportCategories">
+      <map>
+        <entry key="BAD_PRACTICE" value="true" />
+        <entry key="CORRECTNESS" value="true" />
+        <entry key="EXPERIMENTAL" value="true" />
+        <entry key="I18N" value="true" />
+        <entry key="MALICIOUS_CODE" value="true" />
+        <entry key="MT_CORRECTNESS" value="true" />
+        <entry key="PERFORMANCE" value="true" />
+        <entry key="SECURITY" value="true" />
+        <entry key="STYLE" value="true" />
+      </map>
+    </option>
+    <option name="_annotationTypeSettings">
+      <map>
+        <entry key="ExpPriority" value="-16777216;-1;-8355712;WAVE_UNDERSCORE;0;" />
+        <entry key="HighPriority" value="-65536;-1;-65536;WAVE_UNDERSCORE;1;" />
+        <entry key="IgnorePriority" value="-16777216;-1;-8650628;WAVE_UNDERSCORE;0;" />
+        <entry key="LowPriority" value="-16777216;-1;-16711936;BOXED;0;" />
+        <entry key="NormalPriority" value="-16777216;-1;-5066240;WAVE_UNDERSCORE;2;" />
+      </map>
+    </option>
+  </component>
+</project>

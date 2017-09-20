@@ -1,0 +1,30 @@
+@(form: Form[(String,String)])(implicit request: MessagesRequestHeader)
+
+@main("Time-Tracking") {
+
+<h1>Time-Tracking - Login</h1>
+
+<p>Please provide your credentials.</p>
+
+@helper.form(action = routes.Authentication.authenticate()) {
+
+@form.globalError.map { error =>
+<p class="error">
+    @error.message
+</p>
+}
+
+@helper.CSRF.formField
+
+@helper.inputText(form("username"))
+
+@helper.inputText(form("password"))
+
+<button>Login</button>
+
+}
+
+<p class="note">
+
+</p>
+}
